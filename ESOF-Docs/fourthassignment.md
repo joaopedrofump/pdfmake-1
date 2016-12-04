@@ -10,6 +10,8 @@ This process, as the name implies, it is divided into two parts, although they a
 
 **Software validation** : The process of evaluating software during or at the end of the development process to determine whether it satisfies specified requirements.
 
+##a) Software Testability and Reviews
+
 **Software testability** :
 
 Software testability is the degree to which a software artifact (i.e. a software system, software module, requirements- or design document) supports testing in a given test context. If the testability of the software artifact is high, then finding faults in the system (if it has any) by means of testing is easier.
